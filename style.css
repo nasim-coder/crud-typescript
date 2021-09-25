@@ -1,0 +1,38 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: left;
+  padding-bottom: 300px;
+  background-color: rgb(232, 248, 250);
+}
+
+form {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+}
+p {
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+input {
+  margin: 15px;
+}
+
+button {
+  display: block;
+  height: 35px;
+  width: 200px;
+  text-align: center;
+  font-size: 19px;
+  font-weight: bold;
+  background-color: rgba(132, 228, 23, 0.671);
+}
+.button {
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  margin-top: 50px;
+}
